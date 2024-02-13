@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a undergraduate and passionate developer curre
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: Angular, HTML, CSS, JavaScript
+- **Frontend**: Angular, HTML, CSS, TypeScript
 - **Backend**: Java, Spring Boot
 - **Database**: MySQL, MongoDB ,Firebase
 - **Other Tools and Technologies**: Git, Visual Studio Code, IntelliJ IDEA
