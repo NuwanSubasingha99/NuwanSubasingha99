@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/NuwanSubasingha99?style=social)](https://github.com/NuwanSubasingha99)
 
-Welcome to my GitHub profile! I'm a passionate developer currently focused on web application development.
+Welcome to my GitHub profile! I'm a undergraduate and passionate developer currently focused on web application development.
 
 ## 📚 About Me
 
