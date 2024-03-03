@@ -35,6 +35,5 @@ Welcome to my GitHub profile! I'm a undergraduate and passionate developer curre
 If you like what I do, you can:
 
 - ⭐ Star my [repositories](https://github.com/NuwanSubasingha99?tab=repositories)
-- 🍻 Buy me a [coffee](https://www.buymeacoffee.com/)
 
 Let's build amazing things together! 😊
