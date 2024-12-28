@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a undergraduate and passionate developer curre
 - 🌱 I’m currently learning **React**, **Nextjs**, and **Javascript**.
 - 👯 I’m looking to collaborate on **web application development** projects.
 - 💬 Ask me about **Ract** and **Nextjs**.
-- 📫 How to reach me: Feel free to [email me](mailto:sahanperera701@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/nuwan-subhasingha-7884202b8).
+- 📫 How to reach me: Feel free to [email me](mailto:sahanperera701@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nuwan-subhasingha/).
 - 😄 Let's chat! Don't hesitate to reach out if you have any questions, suggestions, or just want to discuss tech.
 
 ## 🛠️ Tech Stack
