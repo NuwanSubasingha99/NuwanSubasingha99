@@ -26,8 +26,8 @@ Welcome to my GitHub profile! I'm a undergraduate and passionate developer curre
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/)
-- [Email](mailto:sahanperera701@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/nuwan-subhasingha/)
+- [Email](mailto:nuwanpsubasinghe85@gmail.com)
 - [Twitter](https://twitter.com/)
 
 ## ❤️ Support Me
