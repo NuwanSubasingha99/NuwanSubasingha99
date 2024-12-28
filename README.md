@@ -6,17 +6,17 @@ Welcome to my GitHub profile! I'm a undergraduate and passionate developer curre
 
 ## 📚 About Me
 
-- 🔭 I’m currently working on the **Blog Application** project.
-- 🌱 I’m currently learning **Angular**, **Java**, and **C#**.
+- 🔭 I’m currently working on the **Travel Application** project.
+- 🌱 I’m currently learning **React**, **Nextjs**, and **Javascript**.
 - 👯 I’m looking to collaborate on **web application development** projects.
-- 💬 Ask me about **Angular** and **Java**.
+- 💬 Ask me about **Ract** and **Nextjs**.
 - 📫 How to reach me: Feel free to [email me](mailto:sahanperera701@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/nuwan-subhasingha-7884202b8).
 - 😄 Let's chat! Don't hesitate to reach out if you have any questions, suggestions, or just want to discuss tech.
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: Angular, HTML, CSS, TypeScript
-- **Backend**: Java, Spring Boot ,Express JS
+- **Frontend**: Ract, HTML, CSS, TypeScript
+- **Backend**: Node JS, Express JS, Spring Boot
 - **Database**: MySQL, MongoDB ,Firebase
 - **Other Tools and Technologies**: Git, Visual Studio Code, IntelliJ IDEA
 
